@@ -7,7 +7,6 @@ module.exports = {
   siteUrl: 'https://hareshchawla7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-240874315-1',
-  // google-site-verification=h9NNvFNsQgeCwySMLTV3Y5cUuIz_bmF_x2go3Elx8ZU
   googleVerification: '15QSpTSmzIVlCfWJdItuP4W8SrYy0Br4BNBNkrzvCNY',
   name: 'Haresh Chawla',
   location: 'Mumbai, India',
@@ -17,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/hareshchawla7',
     },
     {
       name: 'Linkedin',
