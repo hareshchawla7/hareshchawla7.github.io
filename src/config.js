@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Haresh Chawla | Data Engineer Consultant | Software Developer ',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Haresh Chawla is a Data Engineer | Software Developer at EY, who is enthuasitic to learn new things and helping business grow via data fuel.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Haresh Chawla, Haresh, Chawla, hareshchawla7, Data Engineer, Real time data analytics,software developer, software engineer, AWS Data engineer, Azure data engineer, GCP, spark developer, consultant',
+  siteUrl: 'https://hareshchawla7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-240874315-1',
   // google-site-verification=h9NNvFNsQgeCwySMLTV3Y5cUuIz_bmF_x2go3Elx8ZU
@@ -12,7 +12,7 @@ module.exports = {
   name: 'Haresh Chawla',
   location: 'Mumbai, India',
   email: 'chawlaharesh73@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  github: 'https://github.com/hareshchawla7',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
